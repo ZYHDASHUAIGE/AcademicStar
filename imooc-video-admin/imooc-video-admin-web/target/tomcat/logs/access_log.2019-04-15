@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:15:57 +0800] "GET /center.action HTTP/1.1" 302 - http-bio-8080-exec-1 71
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:15:58 +0800] "GET /users/login.action HTTP/1.1" 200 9384 http-bio-8080-exec-3 907
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:15:58 +0800] "GET /portal/image/itzixi_favicon.ico HTTP/1.1" 404 1013 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:16:04 +0800] "POST /users/login.action HTTP/1.1" 200 58 http-bio-8080-exec-5 93
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:16:04 +0800] "GET /center.action HTTP/1.1" 200 20792 http-bio-8080-exec-6 428
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:16:08 +0800] "GET /video/showBgmList.action?_=1555305364738 HTTP/1.1" 200 855 http-bio-8080-exec-7 57
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:16:09 +0800] "POST /video/queryBgmList.action HTTP/1.1" 200 433 http-bio-8080-exec-8 747
+10.249.150.16 - - [15/Apr/2019:13:16:16 +0800] "GET /mvc/bgm/Supercell%20-%20%E3%81%86%E3%81%9F%E3%81%8B%E3%81%9F%E8%8A%B1%E7%81%AB.mp3 HTTP/1.1" 404 1115 http-bio-8080-exec-10 2
+10.249.150.16 - - [15/Apr/2019:13:17:05 +0800] "GET /mvc_bgm/bgm/Supercell%20-%20%E3%81%86%E3%81%9F%E3%81%8B%E3%81%9F%E8%8A%B1%E7%81%AB.mp3 HTTP/1.1" 404 1123 http-bio-8080-exec-10 3
+10.249.150.16 - - [15/Apr/2019:13:17:15 +0800] "GET /mvc-bgm/bgm/Supercell%20-%20%E3%81%86%E3%81%9F%E3%81%8B%E3%81%9F%E8%8A%B1%E7%81%AB.mp3 HTTP/1.1" 404 1123 http-bio-8080-exec-10 2
+10.249.150.16 - - [15/Apr/2019:13:18:52 +0800] "GET /mvc/bgm/AZU+-+For+You.mp3 HTTP/1.1" 404 1001 http-bio-8080-exec-2 2
+10.249.150.16 - - [15/Apr/2019:13:18:52 +0800] "GET /mvc/bgm/Supercell+-+%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.mp3 HTTP/1.1" 404 1215 http-bio-8080-exec-8 1
+10.249.150.16 - - [15/Apr/2019:13:18:52 +0800] "GET /mvc/bgm/music.mp3 HTTP/1.1" 404 985 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [15/Apr/2019:13:19:08 +0800] "GET / HTTP/1.1" 200 20792 http-bio-8080-exec-3 266

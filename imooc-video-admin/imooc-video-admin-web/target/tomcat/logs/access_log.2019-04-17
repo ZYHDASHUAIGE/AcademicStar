@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:10:06:19 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 18
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:10:06:41 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:10:06:41 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:10:07:19 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:10:07:19 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [17/Apr/2019:10:20:36 +0800] "GET /Test/ HTTP/1.1" 404 961 http-bio-8080-exec-8 1
